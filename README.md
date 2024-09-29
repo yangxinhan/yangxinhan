@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yangxinhan</h1>
+# Hi 👋, I'm Yangxinhan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yangxinhan&label=Profile%20views&color=0e75b6&style=flat" alt="yangxinhan" /> </p>
 
-- My Job **student**
+## About me
 
-- Language **C, C++, Python, Html, Css, JavaScript, TypeScript**
+- My Job: **student**
 
-- Skills **Website, Machine learning**
+- Language: **C, C++, Python, Html, Css, JavaScript, TypeScript**
 
-- Next **MySQL, Game design, IoT**
+- Skills: **Website, Machine learning**
 
-- Intrest **Cycling, Programming, Flute, Volleyball**
+- Next: **MySQL, Game design, IoT**
 
-- 📫 How to reach me **xinhanyang061@gmail.com**
+- Intrest: **Cycling, Programming, Flute, Volleyball**
+
+- 📫 How to reach me: **xinhanyang061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
