@@ -6,7 +6,7 @@
 
 - My Job: **student**
 
-- Language: **C, C++, Python, Html, Css, JavaScript, TypeScript**
+- Language: **C, C++, C#, Python, Html, Css, JavaScript, TypeScript**
 
 - Skills: **Website, Machine learning**
 
