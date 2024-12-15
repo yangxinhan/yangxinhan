@@ -10,7 +10,7 @@
 
 - Skills: **Website, Machine learning**
 
-- Next: **MySQL, Game design, IoT**
+- Next: **MySQL, Game design, IoT, ROS, Swift**
 
 - Intrest: **Cycling, Programming, Flute, Volleyball**
 
