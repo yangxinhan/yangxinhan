@@ -24,7 +24,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,anaconda,apple,arduino,azure,blender,bots,discordjs,docker,figma,firebase,git,github,gitlab,kail,linux,md,mysql,nodejs,notion,npm,opencv,ps,pr,pycharm,py,raspberrypi,ros,swift,ts,unity,unreal,visualstudio,vscode,windows,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cs,cpp,py,swift,md,arduino,bots,discordjs,nodejs,npm,opencv,pytorch,unity,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,azure,blender,docker,figma,firebase,git,github,gitlab,mysql,notion,ps,pr,pycharm,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,kail,ros,raspberrypi,)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangxinhan&show_icons=true&locale=en&layout=compact" alt="yangxinhan" /></p>
 
