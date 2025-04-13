@@ -26,13 +26,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cs,cpp,py,swift,md,arduino,bots,discordjs,nodejs,npm,opencv,pytorch,unity,unreal,anaconda,azure,blender,docker,figma,firebase,git,github,gitlab,mysql,notion,ps,pr,pycharm,visualstudio,vscode,apple,windows,linux,kali,ros,raspberrypi)](https://skillicons.dev)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yangxinhan&show_icons=true&locale=en&layout=compact" alt="yangxinhan" /></p>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=yangxinhan&show_icons=true&locale=en" alt="yangxinhan" /></p>
-
-
-
-# Cool Thing
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yangxinhan&theme=holi-theme)](https://git.io/streak-stats)
 
 
@@ -49,5 +42,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yangxinhan&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Chart
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yangxinhan&bg_color=0d1117&color=f0f6fc&line=4493f8&point=b0b0b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
