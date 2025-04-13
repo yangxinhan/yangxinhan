@@ -40,7 +40,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangxinhan&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yangxinhan&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yangxinhan&bg_color=0d1117&color=f0f6fc&line=4493f8&point=b0b0b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
