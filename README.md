@@ -26,18 +26,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cs,cpp,py,swift,md,arduino,bots,discordjs,nodejs,npm,opencv,pytorch,unity,unreal,anaconda,azure,blender,docker,figma,firebase,git,github,gitlab,mysql,notion,ps,pr,pycharm,visualstudio,vscode,apple,windows,linux,kali,ros,raspberrypi)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yangxinhan&theme=holi-theme)](https://git.io/streak-stats)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yangxinhan&theme=github_dark&rank_icon=icons" />
-</a>
-
-<br>
-
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangxinhan&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yangxinhan&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yangxinhan&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yangxinhan&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangxinhan&theme=tokyonight)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yangxinhan&bg_color=0d1117&color=f0f6fc&line=4493f8&point=b0b0b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
