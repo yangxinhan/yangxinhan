@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cs,cpp,py,swift,md,arduino,bots,discordjs,nodejs,npm,opencv,pytorch,unity,unreal,anaconda,azure,blender,docker,figma,firebase,git,github,gitlab,mysql,notion,ps,pr,pycharm,visualstudio,vscode,apple,windows,linux,kali,ros,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cs,cpp,py,swift,java,md,arduino,bots,discordjs,nodejs,npm,opencv,pytorch,unity,unreal,anaconda,azure,blender,docker,figma,firebase,git,github,gitlab,mysql,notion,ps,pr,pycharm,visualstudio,vscode,apple,windows,linux,kali,ros,raspberrypi)](https://skillicons.dev)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yangxinhan&theme=tokyonight)
